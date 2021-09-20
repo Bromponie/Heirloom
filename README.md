@@ -53,7 +53,7 @@ STL's are tested or being tested depending on the time of design process.
 
 * Designs are done using Onshape, STL's are exported from Onshape. www.onshape.com for free account.
 * 3d Printer - Ender 3 v2. www.creality3dofficial.com/products/ender-3-v2-3d-printer 
-* Cura slicers are used for the slicing, with a raft and support for simplicity. Slicer profile is also made available. [Slicer Profiles](Projects/Slicer%20Profiles)
+* Cura slicers are used for the slicing, with a raft and support for simplicity. Slicer profile is also made available. [Slicer Profiles](Slicer%20Profiles)
 * All Prints are done using PLA.
 
 <!-- GETTING STARTED -->
