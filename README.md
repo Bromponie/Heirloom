@@ -1,4 +1,3 @@
-<!-- PROJECT Heirloom -->
 <br />
 <p align="center">
   <a href="https://github.com/Bromponie/Heirloom">
@@ -43,10 +42,12 @@
   </ol>
 </details>
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<details open="open">
 Project based on a book from Jim Makowicki on Making Heirloom Toys.  This project is supposed to be a woodworking project. Still, in the modern world and the newer generation, 3d printing is gaining traction and becoming more affordable so that almost every household can afford a 3d printer. 
-
+</details>
 
 ### Built With
 STL's are tested or being tested depending on the time of design process.  
@@ -97,7 +98,7 @@ See the [open issues](https://github.com/Bromponie/Heirloom/issues) for a list o
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](##LICENSE) for more information.
+Distributed under the MIT License. See <a href="#license">LICENSE</a> for more information.
 
 <!-- CONTACT -->
 ## Contact
