@@ -1,4 +1,4 @@
 ### Tow Truck
-![Tow Truck!](Tow Truck - ISO View.jpg)
-![Tow Truck!](Tow Truck - Top View.jpg)
-![Tow Truck!](Tow Truck B.O.M.jpg)
+![Tow Truck!](Tow%20Truck%20-%20ISO%20View.jpg)
+![Tow Truck!](Tow%20Truck%20-%20Top%20View.jpg)
+![Tow Truck!](Tow%20Truck%20B.O.M.jpg)
